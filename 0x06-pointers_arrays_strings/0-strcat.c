@@ -1,5 +1,3 @@
-0-strcat.c
-
 #include "main.h"
 /**
 * _strcat - concatenates two strings
@@ -29,4 +27,3 @@ j++;
 dest[i] = '\0';
 return (dest);
 }
-
